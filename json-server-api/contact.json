@@ -1,0 +1,26 @@
+{
+  "contact": [
+    {
+      "names": "test1",
+      "email": "test1@gmail.com",
+      "phno": "0987654321",
+      "username": "test1",
+      "password": "test1",
+      "id": 1
+    },
+    {
+      "names": "test2",
+      "email": "test2@gmail.com",
+      "phno": "1234567890",
+      "username": "test2",
+      "password": "test2",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "names": "test6",
+      "email": "test4@gmail.com",
+      "phno": "1232123212"
+    }
+  ]
+}
